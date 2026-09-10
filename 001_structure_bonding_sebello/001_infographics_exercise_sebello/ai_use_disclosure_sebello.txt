@@ -1,0 +1,29 @@
+AI USE DISLOSURE STATEMENT
+Course: CHEM 13 | Organic Chemistry
+Activity: Organic Compound Infographic
+Topic: Salicylic Acid, Capsaicin, and Cinnamaldehyde
+
+AI Tool Used:
+- ChatGPT (OpenAI)
+
+PURPOSE AND NATURE OF AI ASSISTANCE:
+1. Research and Conceptual Assistance:
+I consulted ChatGPT to clarify concepts related to the chemical structures, functional groups, key properties, uses, risks, and notable features of salicylic acid, capsaicin, and cinnamaldehyde.
+I used AI assistance to better understand and explain chemistry-related information in a concise and accessible manner.
+AI was also used to suggest relevant points that could be considered for inclusion in the infographic.
+
+2. Content Development and Organization:
+I used ChatGPT to help organize information into appropriate sections, including key properties, functional groups, uses/value, risks, and interesting features.
+I asked AI to help make technical explanations shorter, clearer, and more suitable for an infographic format.
+I also used AI assistance to revise the wording of selected statements while maintaining their intended scientific meaning.
+
+3. Presentation and Formatting Assistance:
+AI was used to suggest ways of presenting chemical information through concise bullet points, headings, and descriptions.
+I independently selected which suggestions were relevant to the requirements of the activity and adapted them for the final infographic.
+
+VERIFICATION AND STUDENT RESPONSIBILITY
+- AI-generated information was treated as supplementary assistance and was not used as the sole source of scientific information.
+- Chemical information, including structures, functional groups, properties, uses, and safety-related statements, was reviewed and verified using reliable scientific and academic references. 
+- I independently evaluated the information provided by AI and made the final decisions regarding which content to include.
+- I take full responsibility for the accuracy, interpretation, references, formatting, and final presentation of the submitted work.
+- The use of AI was intended to support my understanding and organization of the material, rather than replace independent learning or analysis.
