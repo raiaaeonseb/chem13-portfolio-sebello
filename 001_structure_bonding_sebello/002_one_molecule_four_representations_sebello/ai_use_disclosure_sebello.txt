@@ -1,1 +1,20 @@
+AI USE DISCLOSURE STATEMENT
 
+Course: CHEM 13 | Organic Chemistry
+
+Activity: One Molecule, Four Representations
+
+AI Tool Used:
+- ChatGPT (OpenAI)
+
+PURPOSE AND NATURE OF AI ASSISTANCE:
+
+1. Research and Conceptual Assistance:
+I used ChatGPT to clarify instructions and understand concepts related to the activity.
+
+2. Organization and Formatting Assistance:
+I used ChatGPT for guidance on organizing the activity files and uploading them to GitHub.
+
+VERIFICATION AND STUDENT RESPONSIBILITY:
+
+I reviewed the AI assistance provided and take responsibility for the accuracy and final submission of my work.
